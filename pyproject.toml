@@ -8,14 +8,10 @@ version = "0.1.0"
 description = "A flexible Python library for analysis of network dynamical system models"
 readme = "README.rst"
 authors = [
-  {name = "Pierre Navaro", email = "pierre.navaro@math.cnrs.fr"}
+  {name = "Shane Kepley", email = "s.kepley@vu.nl"},
+  {name = "Elena Queirolo", email = "elena.queirolo@univ-rennes.fr"},
 ]
-maintainers = [
-  {name = "Pierre Navaro", email = "pierre.navaro@math.cnrs.fr"}
-]
-classifiers = [
-
-]
+classifiers = [ ]
 license = {text = "GNU General Public License v3"}
 dependencies = [
   
